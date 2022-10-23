@@ -1,0 +1,167 @@
+*{
+    
+    color:rgb(255, 000, 000);
+}
+body {
+    background-color: black;
+    font-size: large;
+}
+
+#principal {
+    background-image: url(./img/fondo1.jpg);
+    width: 100%;
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+/* 
+.fondo1 {
+    background-image: url(./img/fondo2-25.jpg);
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+} */
+
+.fondo2 {
+    background-image: url(./img/fondo2-25.jpg);
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.cabecera {
+    background-color: rgb(47, 6, 86, 0.5);
+    display: flex;
+    justify-content: space-between;
+}
+
+.cabeceraContent {
+    color: aquamarine;
+    background-color: rgb(34, 64, 144, 0.4);
+    margin: 30px;
+    padding: 10px 30px;
+    border-radius: 20px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    text-shadow: 3px 3px 3px black;
+}
+.contenedor {
+    background-color: rgb(210, 105, 30, 0.2);
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.contenido {
+    background-color: rgb(34, 139, 34, 0.4);
+    margin: 10px;
+    padding: 10px;
+    border-radius: 20px;
+    text-shadow: 3px 3px 3px black;
+}
+.contenido :hover {
+    border: 2px solid red;
+}
+
+.footer {
+    background-color: rgb(47, 6, 86);
+    display: flex;
+    justify-content: space-between;
+}
+
+.footerContent {
+    color: aquamarine;
+    background-color: #224090;
+    margin: 10px;
+    margin: 30px;
+    padding: 10px 30px;
+}
+
+button {
+    background-color: rgb(255, 255, 255, 0.0);
+}
+
+.enlace {
+    text-decoration: none;
+    background-color: rgb(205, 92, 92, 0.5);
+    border-radius: 20px;
+}
+
+.uno, .dos, .tres, .cuatro, .cinco, .seis {
+    border: 3px darkcyan solid;
+    background-color: rgb(138, 43, 226, 0.4);
+    color: rgb(0, 0, 0);
+    text-shadow: -3px -3px 3px white;
+} 
+/* + + + + + + + MENU DE NAVEGACIÓN + + + + + + + + + + + + + + +  +*/
+.pagina {           
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans';
+}
+.cuerpo {
+    background-image: url(./img/fonfo1-25.jpg);
+    width: 100%;
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+nav {
+    max-width: 900px;
+    margin: auto;
+    background-color: rgba(109, 3, 3, 0.4);
+    font-size: 20px;
+    margin-top: 50px;;
+    border-radius: 20px;
+}
+.menu-horizontal {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+.menu-horizontal > li > a {
+    display: block;
+    padding: 15px 20px;
+    color: white;
+    text-decoration: none;
+}
+.menu-horizontal  > li:hover {
+    background-color: red;
+    border-radius: 20px;
+}
+.menu-vertical {
+    position: absolute;
+    display: none;
+    list-style: none;
+    width: 200px;
+    background-color: rgb(0, 0, 0, 0.5);
+}
+.menu-horizontal li:hover .menu-vertical {
+    display: block;
+    border-radius: 20px;
+}
+.menu-vertical li:hover {
+    background-color: rgb(142, 124, 6, .5);
+}
+.menu-vertical li a {
+    display: block;
+    color: white;
+    padding: 15px 15px 15px 10px;
+    text-decoration: none;
+    text-align: left;
+}
+.gota {
+    border-radius: 100% 30px 30px 100%;
+    border: 2px solid brown;
+}
