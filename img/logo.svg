@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.70199214"
+     inkscape:cx="80.485231"
+     inkscape:cy="472.93977"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient798">
+      <stop
+         style="stop-color:#00d400;stop-opacity:1;"
+         offset="0"
+         id="stop794" />
+      <stop
+         style="stop-color:#ff0055;stop-opacity:1;"
+         offset="1"
+         id="stop796" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient798"
+       id="linearGradient800"
+       x1="28.267767"
+       y1="251.77158"
+       x2="140.96193"
+       y2="47.866753"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Capa 4">
+    <ellipse
+       style="fill:#241c1c;stroke-width:0.264583"
+       id="path1716"
+       cx="103.83693"
+       cy="148.5"
+       rx="100.8217"
+       ry="138.32359" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Capa 3">
+    <ellipse
+       style="fill:#ffcc00;stroke-width:0.264583"
+       id="path1661"
+       cx="104.59073"
+       cy="148.12309"
+       rx="87.630074"
+       ry="130.78554" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Capa 2"
+     style="fill-opacity:1;fill:url(#linearGradient800)">
+    <ellipse
+       style="fill:#aa00d4;stroke-width:0.264583"
+       id="path1606"
+       cx="104.77919"
+       cy="149.81917"
+       rx="87.441628"
+       ry="122.30521" />
+  </g>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#d4aa00;stroke-width:0.264583"
+       id="rect111"
+       width="134.55457"
+       height="89.703041"
+       x="39.197971"
+       y="53.897205" />
+    <rect
+       style="display:inline;fill:#800000;stroke-width:0.264583"
+       id="rect217"
+       width="42.213196"
+       height="88.195435"
+       x="28.64467"
+       y="97.241119" />
+    <rect
+       style="fill:#44aa00;stroke-width:0.264583"
+       id="rect271"
+       width="33.544415"
+       height="150.76141"
+       x="134.93147"
+       y="116.4632" />
+    <text
+       xml:space="preserve"
+       style="font-size:71.1761px;fill:#ffff00;stroke-width:0.370708"
+       x="54.337955"
+       y="107.31675"
+       id="text379"
+       transform="scale(0.99057637,1.0095133)"><tspan
+         sodipodi:role="line"
+         id="tspan377"
+         style="font-size:71.1761px;fill:#ffff00;stroke-width:0.370708"
+         x="54.337955"
+         y="107.31675">CG</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:50.8px;fill:#222b00;stroke-width:0.264583"
+       x="74.626907"
+       y="228.02664"
+       id="text643"><tspan
+         sodipodi:role="line"
+         id="tspan641"
+         style="stroke-width:0.264583"
+         x="74.626907"
+         y="228.02664">FS</tspan></text>
+    <ellipse
+       style="fill:#241c1c;stroke-width:0.264583"
+       id="path1718"
+       cx="151.51523"
+       cy="191.09009"
+       rx="12.060914"
+       ry="72.365479" />
+    <ellipse
+       style="fill:#d4aa00;stroke-width:0.264583"
+       id="path1772"
+       cx="151.70367"
+       cy="192.78616"
+       rx="5.0881977"
+       ry="43.909264" />
+    <ellipse
+       style="fill:#d40000;fill-opacity:1;stroke-width:0.264583"
+       id="path2225"
+       cx="63.058968"
+       cy="177.90594"
+       rx="6.9727154"
+       ry="7.1611676" />
+    <ellipse
+       style="fill:#d40000;fill-opacity:1;stroke-width:0.264583"
+       id="path2225-8"
+       cx="36.479759"
+       cy="177.44919"
+       rx="6.9727154"
+       ry="7.1611676" />
+    <ellipse
+       style="fill:#d40000;fill-opacity:1;stroke-width:0.264583"
+       id="path2225-7"
+       cx="49.97591"
+       cy="112.01273"
+       rx="6.9727154"
+       ry="7.1611676" />
+    <ellipse
+       style="fill:#d40000;fill-opacity:1;stroke-width:0.264583"
+       id="path2225-6"
+       cx="50.657341"
+       cy="125.95815"
+       rx="6.9727154"
+       ry="7.1611676" />
+    <ellipse
+       style="fill:#d40000;fill-opacity:1;stroke-width:0.264583"
+       id="path2225-21"
+       cx="50.505077"
+       cy="156.72696"
+       rx="6.9727154"
+       ry="7.1611676" />
+    <ellipse
+       style="fill:#d40000;fill-opacity:1;stroke-width:0.264583"
+       id="path2225-5"
+       cx="49.97591"
+       cy="170.66492"
+       rx="6.9727154"
+       ry="7.1611676" />
+    <ellipse
+       style="fill:#d40000;fill-opacity:1;stroke-width:0.264583"
+       id="path2225-1"
+       cx="63.095158"
+       cy="104.6993"
+       rx="6.9727154"
+       ry="7.1611676" />
+    <ellipse
+       style="fill:#d40000;fill-opacity:1;stroke-width:0.264583"
+       id="path2225-2"
+       cx="36.856655"
+       cy="104.85155"
+       rx="6.9727154"
+       ry="7.1611676" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Capa 5" />
+  <text
+     xml:space="preserve"
+     style="font-size:50.8px;fill:#222b00;stroke-width:0.264583"
+     x="74.277084"
+     y="101.05438"
+     id="text379-0"><tspan
+       sodipodi:role="line"
+       id="tspan377-6"
+       style="font-size:50.8px;fill:#222b00;stroke-width:0.264583"
+       x="74.277084"
+       y="101.05438">CG</tspan></text>
+</svg>
